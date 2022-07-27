@@ -1,0 +1,15 @@
+	term	odif	pvals	num_enriched_exps	num_total_exps
+LOWER IN supragingival plaque	LOWER IN supragingival plaque	-0.6070205479452055	0.0009990009990009652	5	10
+LOWER IN dentition	LOWER IN dentition	-0.5828767123287671	0.0009990009990009652	5	22
+tongue	tongue	-0.5118150684931508	0.0009990009990009652	6	7
+LOWER IN supragingival dental plaque	LOWER IN supragingival dental plaque	-0.48476027397260263	0.0009990009990009652	3	7
+dermal layer of tongue	dermal layer of tongue	-0.4294520547945205	0.0009990009990009652	4	4
+LOWER IN subgingival plaque	LOWER IN subgingival plaque	-0.3909246575342465	0.0009990009990009652	3	14
+municipality of umea *	municipality of umea *	-0.3871575342465754	0.0009990009990009652	1	1
+subgingival plaque	subgingival plaque	0.3405821917808219	0.0009990009990009652	5	14
+supragingival plaque	supragingival plaque	0.3577054794520548	0.0009990009990009652	7	10
+LOWER IN saliva	LOWER IN saliva	0.371404109589041	0.0009990009990009652	3	46
+LOWER IN mouth mucosa	LOWER IN mouth mucosa	0.4023972602739726	0.0009990009990009652	1	9
+dentition	dentition	0.4128424657534247	0.0009990009990009652	6	22
+LOWER IN buccal mucosa	LOWER IN buccal mucosa	0.4751712328767124	0.0009990009990009652	1	4
+subgingival dental plaque	subgingival dental plaque	0.520376712328767	0.0009990009990009652	4	5
